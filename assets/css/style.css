@@ -180,6 +180,7 @@ body {
 .fill:hover {
     opacity: 0.8;
     cursor: pointer;
+    transition: 0.3s;
 }
 
 .project-2 {
@@ -188,9 +189,7 @@ body {
     object-fit: cover;
 }
 
-.work-grid-item:hover {
-    
-}
+
 /* CONTACT INFO STYLING */
 .contact-links {
     line-height: 1.7;
