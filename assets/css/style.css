@@ -237,7 +237,7 @@ body {
     font-size: 1.2rem;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 980px) {
     header {
         padding-bottom: 0;
         justify-content: center;
