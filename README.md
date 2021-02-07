@@ -6,4 +6,4 @@ A portfolio page of Joseph Prospero's web development work. Complete with a pict
 ![Screenshot of webpage](./assets/images/Mock-Up.png)
 
 ## Link to Portfolio
-https://josephprospero.github.io/Joseph-Prospero-Portfolio/index.html
+https://josephprospero.github.io/Joseph-Prospero-Portfolio/
