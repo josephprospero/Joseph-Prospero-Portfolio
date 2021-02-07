@@ -189,6 +189,11 @@ body {
     object-fit: cover;
 }
 
+.project-3 {
+    background-image: url("../images/project-1.jpg");
+    background-size: cover;
+    object-fit: cover;
+}
 
 /* CONTACT INFO STYLING */
 .contact-links {
