@@ -195,6 +195,12 @@ body {
     object-fit: cover;
 }
 
+.project-4 {
+    background-image: url("../images/bloc.png");
+    background-size: cover;
+    object-fit: cover;
+}
+
 /* CONTACT INFO STYLING */
 .contact-links {
     line-height: 1.7;
